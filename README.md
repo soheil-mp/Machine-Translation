@@ -4,6 +4,8 @@ Machine Translation (MT) is the task of automatically converting one natural lan
 # Result
 The model shows a ___ percent accuracy rate on training set and _ percent accuracy rate on validation set. below you can see a translation sample from the algorithm presented here and also the result of same sample from google translate.
 
+<hr>
+
 <figure>
   <img src = "./images/result.png">
   <figcaption> <b>Fig.1 - Translating the sample sentence from the algorithm presented here.</b> </figcaption>
