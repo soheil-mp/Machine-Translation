@@ -9,7 +9,7 @@ The model shows a ___ percent accuracy rate on training set and _ percent accura
   <figcaption>Fig.1 - Translating the sample sentence from the algorithm presented here. </figcaption>
 </figure>
 
-<br>
+<hr>
 
 <figure>
   <img src = "./images/google_translate_result.png">
