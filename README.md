@@ -6,10 +6,12 @@ The model shows a ___ percent accuracy rate on training set and _ percent accura
 
 <hr>
 
+<div style = "color: gray;">
 <figure>
   <img src = "./images/result.png">
-  <figcaption> <b><font size="2">Fig.1 - Translating the sample sentence from the algorithm presented here.</font></b> </figcaption>
+  <figcaption> <b>Fig.1 - Translating the sample sentence from the algorithm presented here.</b> </figcaption>
 </figure>
+</div>
 
 <hr>
 
