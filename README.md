@@ -7,7 +7,7 @@ The model shows a 98% accuracy rate on training set and 97% percent accuracy rat
 <hr>
 
 <img src = "./images/result.png">
-<div style="color: blue;"> <p> <b>Fig.1 - Translating the sample sentence from the algorithm presented here.</b> </p> </div>
+<div style="color:blue;"> <p style="color:blue;"> Fig.1 - Translating the sample sentence from the algorithm presented here. </p> </div>
 
 
 <hr>
