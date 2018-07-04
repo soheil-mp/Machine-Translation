@@ -6,12 +6,12 @@ The model shows a ___ percent accuracy rate on training set and _ percent accura
 
 <figure>
   <img src = "./images/result.png">
-  <figcaption>Fig.1 - Translating the sample sentence from the algorithm presented here. </figcaption>
+  <figcaption> <b>Fig.1 - Translating the sample sentence from the algorithm presented here.</b> </figcaption>
 </figure>
 
 <hr>
 
 <figure>
   <img src = "./images/google_translate_result.png">
-  <figcaption> Fig.2 - Translating the sample sentence from the Google Translate. </figcaption>
+  <figcaption> <b>Fig.2 - Translating the sample sentence from the Google Translate.</b> </figcaption>
 </figure>
