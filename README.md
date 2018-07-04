@@ -7,12 +7,12 @@ The model shows a 98% accuracy rate on training set and 97% percent accuracy rat
 <br>
 
 <img src = "./images/result.png">
-<p style="font-size: 14px;"> <b>Fig.1</b> - Translating a sample sentence from the <b>algorithm presented here</b>. </p>
+<p style="font-size: 14px;"> <b>Fig.1</b> - Translating a sample sentence with the <b>algorithm presented here</b>. </p>
 
 <br>
 <hr>
 
 <figure>
   <img src = "./images/google_translate_result.png">
-  <figcaption><b>Fig.2</b> - Translating a sample sentence from the <b>Google Translate</b>. </figcaption>
+  <figcaption><b>Fig.2</b> - Translating a sample sentence with the <b>Google Translate</b>. </figcaption>
 </figure>
